@@ -2,8 +2,6 @@
 
 This ROS package is a demonstration of bridging [ZeroMQ](http://zeromq.org) commnuication to ROS communication. 
 
-`For AIRLab use only`
-
 ## How to setup
 
 1. Clone this repository into ros src folder.
